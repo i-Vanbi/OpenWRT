@@ -23,7 +23,11 @@ rm -rf feeds/packages/net/smartdns
 rm -rf feeds/packages/net/adguardhome
 rm -rf feeds/packages/net/aria2
 rm -rf feeds/packages/net/ariang
-
+rm -rf feeds/packages/net/openvpn
+rm -rf feeds/packages/net/baidupcs-go
+rm -rf feeds/packages/net/baidupcs-web
+rm -rf feeds/packages/net/openvpn
+rm -rf feeds/packages/net/openvpn
 
 rm -rf feeds/luci/themes/luci-theme-argon
 rm -rf feeds/luci/themes/luci-theme-netgear
