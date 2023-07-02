@@ -76,8 +76,8 @@ sed -i "s|ARMv8|ARMv8_PLUS|g" package/luci-app-amlogic/root/etc/config/amlogic
 # svn export https://github.com/sbwml/luci-app-mosdns/trunk/mosdns package/mosdns
 
 # DDNS.to
-svn export https://github.com/linkease/nas-packages-luci/trunk/luci/luci-app-ddnsto package/luci-app-ddnsto
-svn export https://github.com/linkease/nas-packages/trunk/network/services/ddnsto package/ddnsto
+# svn export https://github.com/linkease/nas-packages-luci/trunk/luci/luci-app-ddnsto package/luci-app-ddnsto
+# svn export https://github.com/linkease/nas-packages/trunk/network/services/ddnsto package/ddnsto
 
 # Alist
 svn export https://github.com/sbwml/luci-app-alist/trunk/luci-app-alist package/luci-app-alist
