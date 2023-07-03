@@ -34,7 +34,6 @@ rm -rf feeds/packages/net/softethervpn
 rm -rf feeds/packages/net/softethervpn5
 rm -rf feeds/packages/net/qBittorrent-static
 rm -rf feeds/packages/net/qBittorrent
-rm -rf feeds/packages/net/shadowsocks-libev
 rm -rf feeds/packages/net/transmission-web-control
 rm -rf feeds/packages/net/zerotier
 rm -rf feeds/packages/net/webui-aria2
