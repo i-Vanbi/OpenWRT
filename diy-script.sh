@@ -20,39 +20,12 @@ sed -i 's/192.168.1.1/10.1.1.8/g' package/base-files/files/bin/config_generate
 rm -rf feeds/packages/net/mosdns
 rm -rf feeds/packages/net/msd_lite
 rm -rf feeds/packages/net/smartdns
-rm -rf feeds/packages/net/adguardhome
-rm -rf feeds/packages/net/aria2
-rm -rf feeds/packages/net/ariang
-rm -rf feeds/packages/net/openvpn
-rm -rf feeds/packages/net/baidupcs-go
-rm -rf feeds/packages/net/baidupcs-web
-rm -rf feeds/packages/net/openvpn-easy-rsa
-rm -rf feeds/packages/net/rclone-ng
-rm -rf feeds/packages/net/rclone-webui-react
-rm -rf feeds/packages/net/rclone
-rm -rf feeds/packages/net/softethervpn
-rm -rf feeds/packages/net/softethervpn5
-rm -rf feeds/packages/net/qBittorrent-static
-rm -rf feeds/packages/net/qBittorrent
-rm -rf feeds/packages/net/transmission-web-control
-rm -rf feeds/packages/net/zerotier
-rm -rf feeds/packages/net/webui-aria2
-rm -rf feeds/packages/net/adblock
-rm -rf feeds/packages/net/vlmcsd
 rm -rf feeds/luci/themes/luci-theme-argon
 rm -rf feeds/luci/themes/luci-theme-netgear
 rm -rf feeds/luci/applications/luci-app-dockerman
 rm -rf feeds/luci/applications/luci-app-mosdns
 rm -rf feeds/luci/applications/luci-app-netdata
 rm -rf feeds/luci/applications/luci-app-serverchan
-rm -rf feeds/luci/applications/luci-app-adbyby-plus
-rm -rf feeds/luci/applications/luci-app-xlnetacc
-rm -rf feeds/luci/applications/luci-app-ddns
-rm -rf feeds/luci/applications/luci-app-adblock
-rm -rf feeds/luci/applications/luci-app-vlmcsd
-rm -rf feeds/luci/applications/luci-app-airplay2
-rm -rf feeds/luci/applications/luci-app-uugamebooster
-rm -rf feeds/luci/applications/luci-app-wireguard
 
 
 # 添加额外插件
